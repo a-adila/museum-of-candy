@@ -6,6 +6,8 @@ During my learning journey, I had the opportunity to learn new skills through tu
 
 Instead of using it I decided to go go back to the basis and code only using CSS with no help. And here is the result!
 
+Here is the [live result](https://a-adila.github.io/museum-of-candy/)
+
 ## Technologies used
 - HTML
 - CSS
